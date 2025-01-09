@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: modifying a vector through a raw pointer after the vector's capacity might change.  The code exhibits undefined behavior, leading to unexpected results.  The solution demonstrates safe alternative approaches.
